@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\ConAppAssignment17\bin\Debug\ConAppAssignment17.exe.config
+E:\Users\kishan\source\repos\ConAppAssignment17\bin\Debug\ConAppAssignment17.exe
+E:\Users\kishan\source\repos\ConAppAssignment17\bin\Debug\ConAppAssignment17.pdb
+E:\Users\kishan\source\repos\ConAppAssignment17\obj\Debug\ConAppAssignment17.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\ConAppAssignment17\obj\Debug\ConAppAssignment17.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\ConAppAssignment17\obj\Debug\ConAppAssignment17.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\ConAppAssignment17\obj\Debug\ConAppAssignment17.exe
+E:\Users\kishan\source\repos\ConAppAssignment17\obj\Debug\ConAppAssignment17.pdb
